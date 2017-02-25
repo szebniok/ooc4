@@ -1,5 +1,6 @@
 # ooc4
 IV Konkurs Informatyczny Order of Code
+
 rozwiązanie zadania: Konrad Bochnia, Paweł Kołek
 
 # pliki
